@@ -1,0 +1,9 @@
+.profile-icon {
+    font-size: 9rem;
+}
+
+.profile-photo {
+    width: 9rem;
+    height: 9rem;
+    object-fit: cover;
+}
